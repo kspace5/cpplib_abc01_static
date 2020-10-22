@@ -1,5 +1,5 @@
-#ifndef XYC_UTILS_H
-#define XYC_UTILS_H
+#ifndef ABC_UTILS_H
+#define ABC_UTILS_H
 
 #include <math.h>
 #include <map>
@@ -8,7 +8,7 @@
 
 #include <sstream>
 
-namespace xyc {
+namespace abc {
 		//
 		// STRING UTILS
 		//
