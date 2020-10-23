@@ -18,6 +18,8 @@ namespace abc {
 
 		// Splits line into a vector or floats
 		std::vector<float> split_to_floats(std::string str, char delimiter);
+
+		string ping(string str);
 }
 
 #endif

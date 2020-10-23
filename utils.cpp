@@ -33,4 +33,8 @@ namespace abc {
 
 		return result;
 	}
+
+	string ping(string str) {
+		return "Hello from abc " + str;
+	}
 }
